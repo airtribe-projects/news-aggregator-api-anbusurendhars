@@ -10,7 +10,7 @@ const mockUser = {
     preferences:['movies', 'comics']
 };
 
-let token = '';
+let token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiQ2xhcmsgS2VudCIsImVtYWlsIjoiY2xhcmtAc3VwZXJtYW4uY29tIiwicHJlZmVyZW5jZXMiOlsibW92aWVzIiwiY29taWNzIl0sImlkIjoiNzIwMmNlMWUtNzM4My00OWM0LWExNDQtZWJmYzE4ZTgwYWNjIiwiaWF0IjoxNzUyNTMyOTk1fQ.vO3XyCX9Eh8yJrjq2SPTDIGX2OhJpUrH8cIXRq0Ke3I';
 
 // Auth tests
 
